@@ -1,0 +1,9 @@
+Welcome to the exciting world of Android development!
+
+In this course we'll learn how to build Android apps, including how to create user interfaces, communicate with a backend
+ server, and take advantage of device features.
+
+In the first week, we'll focus on the basics of Android user interfaces. We'll start by exploring how to create a new 
+project, use standard Android development tools, customize how things look, provide navigation through an app, and 
+display information. Just like learning any new toolset, there is an awful lot of information and context required to 
+get up and running. 
