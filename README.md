@@ -8,6 +8,9 @@ Getting start with Android - Day 01.
 
 Android Documentation and Resources - Day 02.
 
+Layout - Doy 03
+
+  Linear Layout.
 
 
 Links:
