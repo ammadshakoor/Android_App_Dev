@@ -16,9 +16,13 @@ Layout - Day 03
 Links:
 
 Essential Resources: 
-https://developers.google.com/android/for-all/vocab-words/ .
-https://github.com/codepath/android_guides/wiki .
-https://developer.android.com/index.html .
+
+[Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
+
+[Github Code(]https://github.com/codepath/android_guides/wiki)
+
+[Android Developer Website](https://developer.android.com/index.html)
+
 
 Learn how to set up Firebase:
-https://ammadshakoor.wordpress.com/2017/11/18/firebase-android/
+[My First Firebase App](https://ammadshakoor.wordpress.com/2017/11/18/firebase-android/)
