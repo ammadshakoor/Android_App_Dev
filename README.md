@@ -19,7 +19,7 @@ Essential Resources:
 
 [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
 
-[Github Code(]https://github.com/codepath/android_guides/wiki)
+[Github Code]https://github.com/codepath/android_guides/wiki)
 
 [Android Developer Website](https://developer.android.com/index.html)
 
