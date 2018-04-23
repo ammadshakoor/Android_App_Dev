@@ -2,7 +2,7 @@
 In my this project i start with the beginning to advance developments of android application.
 
 
-# Firebase - Android
+# Android
 
 Getting start with Android - Day 01.
 
@@ -24,5 +24,6 @@ Essential Resources:
 [Android Developer Website](https://developer.android.com/index.html)
 
 
+# Firebase 
 Learn how to set up Firebase:
 [My First Firebase App](https://ammadshakoor.wordpress.com/2017/11/18/firebase-android/)
