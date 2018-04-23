@@ -4,13 +4,17 @@ In my this project i start with the beginning to advance developments of android
 
 # Android
 
-Getting start with Android - Day 01.
+Getting start with Android - Day 01
 
-Android Documentation and Resources - Day 02.
+Android Documentation and Resources - Day 02
 
-Layout - Day 03
+Layout _ Day 03 - 04
 
-  Linear Layout.
+  ``` Linear Layout
+      Relative Layout
+      Frame Layout
+      Constraint Layout
+  ```
 
 
 Links:
