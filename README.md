@@ -32,3 +32,7 @@ Essential Resources:
 # Firebase 
 Learn how to set up Firebase:
 [My First Firebase App](https://ammadshakoor.wordpress.com/2017/11/18/firebase-android/)
+
+# SQLite Database
+Basic code for the connection with database create, delete or update functionality.
+[SQlite Demo 1](https://github.com/ammadshakoor/SimpleSQLite)
